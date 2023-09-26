@@ -109,7 +109,7 @@
 
 /* ====================== ABOUT ===================== */
 .section-about {
-    margin-top: clamp(40px, calc(150 / 1210 * 100vw), 150px);
+    margin-top: clamp(40px, calc(100 / 1210 * 100vw), 100px);
 }
 
 .about-container {
@@ -241,7 +241,7 @@
 
 /* ====================== PRICES =================== */
 .section-prices {
-    margin-top: clamp(40px, calc(150 / 1210 * 100vw), 150px);
+    margin-top: clamp(40px, calc(100 / 1210 * 100vw), 100px);
 }
 
 .prices-cards-list {
@@ -321,7 +321,7 @@
 
 /* ===================== CONTACTS ============= */
 .section-contacts {
-    margin-top: clamp(40px, calc(150 / 1210 * 100vw), 150px);
+    margin-top: clamp(40px, calc(100 / 1210 * 100vw), 100px);
 }
 
 .contacts-info-wrapper {
